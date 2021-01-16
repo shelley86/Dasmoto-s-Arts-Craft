@@ -1,0 +1,38 @@
+h1, 
+h2, 
+h3, 
+p {
+  font-family: "Helvetica", sans-serif;
+}
+
+#style {
+    background-image: url(https://images.unsplash.com/photo-1610491882888-86964aa33765?ixid=MXwxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHwyfHx8ZW58MHx8fA%3D%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=500&q=60);
+    font-family: Helvetica, sans-serif;
+    font-size: 60px;
+    font-weight: bold;
+    color: khaki;
+    text-align: center;
+}
+
+
+.item h2 {
+    font-size: 32px;
+    color: white;
+  }
+  
+  .price {
+    font-weight: bold;
+    color: blue;
+  }
+  
+  #brush {
+    background-color: mediumspringgreen;
+  }
+  
+  #frame {
+    background-color: lightcoral;
+  }
+  
+  #paint {
+    background-color: skyblue;
+  }
